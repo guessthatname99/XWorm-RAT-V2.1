@@ -12,7 +12,7 @@ A famous XWorm RAT for free, all the popular RAT options + Icon Collection. Plea
 <br>⭐️Excute Shell command
 <br>⭐️File manager ⭐️TCP connection
 <br>⭐️Active window ⭐️Kill bot
-<br>⭐️Self-uninstalling
+<br>⭐️Self-uninstalling 
 <br>⭐️Shutdown-restart
 <br>⭐️Process manager
 <br>⭐️Clipboard manager
